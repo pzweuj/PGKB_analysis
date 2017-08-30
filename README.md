@@ -1,5 +1,5 @@
 # PGKB_analysis
-1 Use the crawler to grab the PGKB data
+1 Use the spider to grab the PGKB data
 
 2 run Clinical_PGx.py to get Clinical information
 
